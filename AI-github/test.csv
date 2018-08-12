@@ -1,0 +1,5 @@
+TemperaturaAmbiente,HumedadActual,TipoSuelo,PhAgua,HumedadDeseada,TemperaturaDeseadaSuelo
+40,0.152,1,7,0.955,25 
+25,0.06,1,9,0.75,38
+12,0.856,1,6,0.111,7 
+11,0.72,1,7,0.12,13
